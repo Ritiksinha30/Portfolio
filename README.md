@@ -1,5 +1,5 @@
 # Personal Portfolio Website By Ritik Kumar Sinha
-![image_alt]("https://github.com/user-attachments/assets/7e544877-1ee5-44ec-b22a-bedd8b792276")
+![Sample Image](https://github.com/Ritiksinha30/Portfolio/blob/ae8f7e22b54a74511939d5934c0fcb9030fcb507/image.png)
 
 A modern, fully responsive personal portfolio website designed to showcase skills, projects, and contact information. This project features a clean UI with dark/light mode support, smooth animations, and a custom-built static FAQ chatbot.
 
